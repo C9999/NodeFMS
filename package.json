@@ -1,0 +1,19 @@
+{
+  "name": "nodefilipe",
+  "version": "1.0.0",
+  "description": "talk sobre node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "ola": "echo Olarrr"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Carlos Araujo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
